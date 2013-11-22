@@ -1,0 +1,43 @@
+509  git clone https://github.com/ballauriena/CLI-Obstacle-Course.git
+  510  cd CLI-Obstacle-Course
+  511  ls
+  512  ls -a -l
+  513  mv images app/assets
+  514  ls
+  515  cd app
+  516  ls
+  517  cd assets
+  518  ls
+  519  cd ..
+  520  cd views
+  521  cd static_pages
+  522  ls
+  523  ls ..
+  524  ls ../..
+  525  mv this_is_the_annoying_ping_pong_text\!.txt ..
+  526  mv ../this_is_the_annoying_ping_pong_text\!.txt .
+  527  mv this_is_the_annoying_ping_pong_text\!.txt where_am_you\?.txt
+  528  mv where_am_you\?.txt where_am_i\?.txt
+  529  cd
+  530  find . -name "static_pages_controller.rb"
+  531  mv ./CLI-Obstacle-Course/app/helpers/static_pages_controller.rb app/controllers/
+  532  mv ./CLI-Obstacle-Course/app/helpers/static_pages_controller.rb ./CLI-Obstacle-Course/app/controllers/
+  533  find . -name "*controller*"
+  534  cd CLI-Obstacle-Course
+  535  find . -name "*controller*"
+  536  cd controllers
+  537  cd controller
+  538  cd app
+  539  cd controllers
+  540  cd ..
+  541  cd..
+  542  cd ..
+  543  grep -r "bootinator" * ls
+  544  mv app/assets/stylesheets/application_helper.rb app/helpers
+  545  rm -rf delete_me/
+  546  ls
+  547  find . -name *winning.rb
+  548  cd
+  549  cp CLI-Obstacle-Course/config/environments/you_are_winning.rb .
+  550  ruby you_are_winning.rb
+  551  history
